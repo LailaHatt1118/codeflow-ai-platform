@@ -11,7 +11,7 @@ export default function Navbar(){
                 <div className=" flex justify-between items-center h-14 sm:h-16 md:h-20">
                     <div className="flex items-center space-x-2 group cursor-pointer">
             
-                            <img src="public/AI.png" alt="logo image" className="w-[50px] h-[50px] rounded-full" />
+                            <img src="/AI.png" alt="logo image" className="w-[50px] h-[50px] rounded-full" />
                             <div>
                             <span className="text-lg sm:text-xl md:text-4xl font-medium">
                                 <span className="text-white">Code</span>

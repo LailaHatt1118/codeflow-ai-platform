@@ -3,17 +3,17 @@ const testimonials =[
         name: "Imma Watson",
         role: "Frontend Developer",
         feedback: "CodeFlow has revolutionized my coding process. The AI suggestions are incredibly accurate and save me so much time!",
-        avatar: "public/p1.jpg",
+        avatar: "/p1.jpg",
     },{
         name: " Adam Smith",
         role: "Full Stack Developer",
         feedback: "The collaborative coding feature is a game-changer. It makes teamwork seamless and efficient. Highly recommend CodeFlow!",
-        avatar: "public/p2.jpg",
+        avatar: "/p2.jpg",
     },{
         name: "Sophie Lee",
         role: "Software Engineer",
         feedback: "I love how CodeFlow integrates with my existing tools. The workflow is smooth, and the AI assistance is top-notch.",
-        avatar: "public/p3.jpg",
+        avatar: "/p3.jpg",
     }
 ]
 
